@@ -152,9 +152,6 @@ define(function(require) {
 							},
 							'delete': false
 						}
-					},
-					other: {
-						eventRouting: true
 					}
 				}
 			}
